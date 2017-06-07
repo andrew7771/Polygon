@@ -1,0 +1,10 @@
+F:\Хаёвня\3 курс\курсач АИСД\bin\Debug\SharpGL.exe
+F:\Хаёвня\3 курс\курсач АИСД\bin\Debug\SharpGL.pdb
+F:\Хаёвня\3 курс\курсач АИСД\obj\x86\Debug\SharpGL.csprojResolveAssemblyReference.cache
+F:\Хаёвня\3 курс\курсач АИСД\obj\x86\Debug\SharpGL.ControlGL.resources
+F:\Хаёвня\3 курс\курсач АИСД\obj\x86\Debug\SharpGL.GL.resources
+F:\Хаёвня\3 курс\курсач АИСД\obj\x86\Debug\SharpGL.MainForm.resources
+F:\Хаёвня\3 курс\курсач АИСД\obj\x86\Debug\SharpGL.Properties.Resources.resources
+F:\Хаёвня\3 курс\курсач АИСД\obj\x86\Debug\SharpGL.csproj.GenerateResource.Cache
+F:\Хаёвня\3 курс\курсач АИСД\obj\x86\Debug\SharpGL.exe
+F:\Хаёвня\3 курс\курсач АИСД\obj\x86\Debug\SharpGL.pdb
